@@ -16,6 +16,9 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/17216686?v=4" width="100px;" alt="choiseonmun"/><br /><sub><a href="https://github.com/choiseonmun"><b>choiseonmun</b></a></sub><br /></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/72890183?v=4" width="100px;" alt="password-kim"/><br /><sub><a href="https://github.com/password-kim"><b>password-kim</b></a></sub><br /></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/100821995?v=4" width="100px;" alt="Xion079"/><br /><sub><a href="https://github.com/Xion079"><b>Xion079</b></a></sub><br /></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/120005151?v=4" width="100px;" alt="Mati-as"/><br /><sub><a href="https://github.com/Mati-as"><b>Mati-as</b></a></sub><br /></td>
     </tr>
   </tbody>
 </table> 
