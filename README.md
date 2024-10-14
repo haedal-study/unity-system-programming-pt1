@@ -34,10 +34,10 @@
 
 # 방식
 각 주차별로 아래의 순서를 끝날 때까지 반복합니다.
-1. 주차별 범위를 학습합니다. 학습한 날에는 서로의 학습을 독려하는 차원에서 메신저에 공부한 내용을 남깁니다.
-2. 학습한 내용을 정리하여 다음 주차 시작하기 전까지 블로그에 게시합니다.
-3. 게시물의 링크를 각 주차 이슈에 댓글로 작성합니다.
+1. 주차별 범위를 학습합니다. 학습한 날에는 내용을 정리해 [Discussion](https://github.com/haedal-study/unity-system-programming-pt1/discussions)에 올립니다.
+2. 다음 주차 시작하기 전까지 공부한 내용을 블로그에 포스팅한 후, [이곳](https://github.com/haedal-study/unity-system-programming-pt1/discussions/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%81%ED%81%AC)에 링크를 답니다.
+3. 서로의 블로그 바이럴을 위해 리액션(좋아요, 댓글 등)을 남깁니다.
 
 # 공지사항
-- 활발한 교류는 서로의 이해도를 향상합니다. 질문을 슬랙에 자유로이 남겨주세요.
+- 활발한 교류는 서로의 이해도를 향상합니다. 질문 거리는 꼭 [Discussion](https://github.com/haedal-study/unity-system-programming-pt1/discussions)에 남겨주세요.
 - 모임에 불참할 시 제게 꼭 알려주세요.
